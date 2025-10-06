@@ -7,4 +7,4 @@ repo for mandatory assignment 2 in IN5060 Quantitative Performance Analysis
 - Jonas
 
 ## Datasets
-store datasets in folder named ```datasets``` for gitignore, data is static and too large to store
+store datasets in folder named ```datasets/``` for gitignore, data is static and too large to store
